@@ -81,7 +81,8 @@ Abrir `index.html` en el navegador o servir la carpeta del proyecto con tu servi
 
 ### Autor
 **JEB$DEV (Javier Berchtold)**  
-LinkedIn/GitHub: agrega tus enlaces aquí.
+GitHub: https://github.com/JEB76-22?tab=repositories
+**Correo:** j.e.b.inter@gmail.com
 
 ### Licencia
 Este proyecto se distribuye bajo la licencia **ISC** (ver `package.json`).
