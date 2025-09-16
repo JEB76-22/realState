@@ -1,7 +1,7 @@
 ## Real State – Sitio web inmobiliario estático
 
 **Resumen**: Proyecto front-end que implementa un sitio inmobiliario responsive con **SASS/SCSS**, metodología **BEM**, **CSS Grid/Flexbox** y un pipeline de build con **Gulp**. Incluye optimización automática de imágenes (JPEG/PNG → **WebP**/**AVIF**), generación de **sourcemaps**, **autoprefixing** y minificación CSS para un rendimiento óptimo en producción.
-
+**Visita el sitio web:** [realState](https://realstate-2025.netlify.app/)
 ### Características principales
 - **UI responsive**: Layout fluido con CSS Grid y Flexbox.
 - **Arquitectura CSS con BEM**: Nomenclatura predecible y escalable.
